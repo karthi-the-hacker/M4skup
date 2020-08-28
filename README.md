@@ -59,7 +59,7 @@ Example
                        ##     ##   ##     ##        
  
                  Banner credits: Msfconsole banner 
-                    Authon : @karthi_the_hacker 
+                    Authour : @karthi_the_hacker 
                   Tool Name:      M4skup     
                             Jai Hind  
 Enter the full path with file name: /home/mysystempath/recon/bugcrowd/bugcrowd
