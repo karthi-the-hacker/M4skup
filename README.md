@@ -2,7 +2,7 @@
 
 Find all Domian and sub Domains IP's in a second 
 
-#Setup Steps:
+Setup Steps:
 
 1. First install my R3C0NH4CK3R tool 
 2. cd ~
@@ -15,7 +15,7 @@ Find all Domian and sub Domains IP's in a second
 9. Now setup is completed for more details about this tool https://github.com/karthi-the-hacker/R3C0NH4CK3R
 
 
-#M4skup tool Installation steps:
+M4skup tool Installation steps:
 
 1. cd ~
 2. cd tools
@@ -26,7 +26,7 @@ Find all Domian and sub Domains IP's in a second
 7. ./m4skup.sh
 
 
-#Example
+Example
 
                              ########                #
                         #################           #
@@ -63,6 +63,7 @@ Find all Domian and sub Domains IP's in a second
                   Tool Name:      M4skup     
                             Jai Hind  
 Enter the full path with file name: /home/mysystempath/recon/bugcrowd/bugcrowd
+
 Enter comany name: bugcrowd
 
 
