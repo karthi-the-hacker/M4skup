@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-./.banner.sh
+./.banner
 read -p "Enter the full path with file name: " fl
 read -p "Enter comany name: " comp
 mkdir ~/recon/$comp
