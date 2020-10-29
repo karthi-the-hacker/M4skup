@@ -2,7 +2,7 @@
 clear
 ./.banner
 read -p "Enter the full path with file name: " fl
-read -p "Enter comany name: " comp
+read -p "Enter company name: " comp
 mkdir ~/recon/$comp
 n=1
 cd ~/recon/$comp/
