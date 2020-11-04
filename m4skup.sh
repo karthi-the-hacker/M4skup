@@ -10,8 +10,8 @@ mkdir m4skup
 cd m4skup
 while read line;do
  #echo " Domain $n : $line"
- host $line |grep address | awk '{print $4}' >> m4skup.txt 
- host $line |grep address | awk '{print "Domain:"$1 " --->  " "Ip Adress:" $4}'
- host $line |grep address | awk '{print "Domain:"$1 " --->  " "Ip Adress:" $4}' >> domainwithip.txt
+ host $line |grep address | awk '{print $NF}' >> m4skup.txt 
+ host $line |grep address | awk '{print "Domain:"$1 " --->  " "Ip Adress:" $NF}'
+ host $line |grep address | awk '{print "Domain:"$1 " --->  " "Ip Adress:" $NF}' >> domainwithip.txt
  n=$((n+1))
 done < $fl 
